@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0021700c-baaa-4fab-874f-1aece6bc841a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/list/comparableandcomparator/ArrayListSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/list/comparableandcomparator/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/list/comparablesort/ArrayListSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/list/comparablesort/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/list/sortingarraylist/ArrayListDescendingSort.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
