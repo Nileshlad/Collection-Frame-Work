@@ -19,7 +19,7 @@ public class HashSetIteratorExample {
         Iterator<String> it = hashset.iterator();
         // Show HashSet elements
         System.out.println("HashSet contains: ");
-        while(it.hasNext()) {
+        while (it.hasNext()) {
             System.out.println(it.next());
         }
     }
