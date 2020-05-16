@@ -6,10 +6,8 @@ package com.list;
 import java.util.ArrayList;
 import java.util.Iterator;
 
-public class ArrayListLoopExample
-{
-    public static void main (String[] args)
-    {
+public class ArrayListLoopExample {
+    public static void main(String[] args) {
         ArrayList<Integer> al = new ArrayList<Integer>();
         al.add(13);
         al.add(7);
