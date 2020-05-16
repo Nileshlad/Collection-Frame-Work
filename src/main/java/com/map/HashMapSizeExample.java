@@ -10,11 +10,11 @@ public class HashMapSizeExample {
         HashMap<Integer, String> hashmap = new HashMap<Integer, String>();
 
         // Adding Key and Value pairs to HashMap
-        hashmap.put(11,"Apple");
-        hashmap.put(22,"Banana");
-        hashmap.put(33,"Mango");
-        hashmap.put(44,"Pear");
-        hashmap.put(55,"PineApple");
+        hashmap.put(11, "Apple");
+        hashmap.put(22, "Banana");
+        hashmap.put(33, "Mango");
+        hashmap.put(44, "Pear");
+        hashmap.put(55, "PineApple");
 
         // int size() method returns the number of key value pairs
         System.out.println("Size of HashMap : " + hashmap.size());
